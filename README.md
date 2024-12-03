@@ -4,7 +4,7 @@ This project demonstrates end-to-end data cleaning and integration of sales data
 
 ## Features
 - Data cleaning: Handling missing values, duplicates, and text standardization.
-- SQL integration: Loading CSV data into SQLite.
+- SQL integration: Loading CSV data into SQL lite.
 - Data analysis: Filtering and aggregating data.
 
 ## How to Run
