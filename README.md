@@ -1,17 +1,21 @@
 # -Sales-Data-Cleaning-Analysis-and-SQL-Integration-
+This project creates CSV data using Python and demonstrates end-to-end data cleaning and integration of sales data using SQL .
 
-This project demonstrates end-to-end data cleaning and integration of sales data into an SQL database.
-
-## Features
+## Key Features
 - Data cleaning: Handling missing values, duplicates, and text standardization.
-- SQL integration: Loading CSV data into SQL lite.
+- Python: Creating CSV data and loading CSV Data into Sqlite.
 - Data analysis: Filtering and aggregating data.
+
+## Dataset
+The dataset contains sales records, including product, quantity, price, and customer details.
 
 ## How to Run
 1. Clone the repository.
-2. Install dependencies: `pip install pandas sqlite3`.
-3. Run `main.py` to execute the pipeline.
+2. Install dependencies: '!pip install ipython-sql sqlalchemy'
+3. Install dependencies: '!pip install ipython-sql sqlalchemy'
+4. Run `main.py` to execute the pipeline.
 
-## Example Usage
-```python
-python main.py
+## Tools Used
+- Python (pandas)
+- Sqlite
+  
