@@ -10,8 +10,8 @@
 -The dataset contains sales records, including Order_ID	Customer_Name	Product	Quantity_Sold	Price	Date	City	State	Country.
 
 ## How to Run
-1. Clone the repository git clone https://github.com/Yaseen-Faisal/-Sales-Data-Cleaning-Analysis-and-SQL-Integration-.git
-2. Install dependencies: '!pip install ipython-sql sqlalchemy'
+1. git clone https://github.com/Yaseen-Faisal/-Sales-Data-Cleaning-Analysis-and-SQL-Integration-.git
+2. Install dependencies: '!pip install ipython-sql'
 3. Install dependencies: '!pip install ipython-sql sqlalchemy'
 4. Install dependencies: 'pip install pandas matplotlib seaborn numpy'
 
