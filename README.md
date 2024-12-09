@@ -16,7 +16,7 @@
 4. Install dependencies: 'pip install pandas matplotlib seaborn numpy'
 
 
-## Python: Core programming language for data analysis.
+## Tools and Libraries Used
 -Jupyter Notebook/Kaggle Notebook: For interactive code execution and visualization.
 -Pandas: Data manipulation and cleaning.
 -Matplotlib: Basic data visualization.
