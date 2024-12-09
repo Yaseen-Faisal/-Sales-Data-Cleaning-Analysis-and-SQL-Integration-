@@ -1,21 +1,24 @@
-# -Sales-Data-Cleaning-Analysis-and-SQL-Integration-
-This project creates CSV data using Python and demonstrates end-to-end data cleaning and integration of sales data using SQL .
+# -Sales Data Cleaning, Analysis Using Python and SQL-
+-This project focuses on cleaning and analyzing a simulated sales dataset to address common real-world challenges in sales management systems. The dataset contains inconsistencies, missing values, duplicates, and invalid entries. By performing data cleaning and exploratory data analysis (EDA), the project aims to uncover sales trends, derive actionable business insights, and ensure data accuracy for informed decision-making..
 
 ## Key Features
-- Data cleaning: Handling missing values, duplicates, and text standardization.
-- Python: Creating CSV data and loading CSV Data into Sqlite.
-- Data analysis: Filtering and aggregating data.
+-Data Cleaning: Addressing missing values, handling duplicates, and standardizing data.
+-Exploratory Data Analysis (EDA): Visualizing trends, analyzing sales performance, and identifying key metrics.
+-Actionable Insights: Providing a foundation for data-driven decisions in sales strategies.
 
 ## Dataset
-The dataset contains sales records, including product, quantity, price, and customer details.
+-The dataset contains sales records, including Order_ID	Customer_Name	Product	Quantity_Sold	Price	Date	City	State	Country.
 
 ## How to Run
-1. Clone the repository.
+1. Clone the repository git clone https://github.com/your-repository-link
 2. Install dependencies: '!pip install ipython-sql sqlalchemy'
 3. Install dependencies: '!pip install ipython-sql sqlalchemy'
-4. Run `main.py` to execute the pipeline.
+4. Install dependencies: 'pip install pandas matplotlib seaborn numpy'
 
-## Tools Used
-- Python (pandas)
-- Sqlite
-  
+
+## Python: Core programming language for data analysis.
+-Jupyter Notebook/Kaggle Notebook: For interactive code execution and visualization.
+-Pandas: Data manipulation and cleaning.
+-Matplotlib: Basic data visualization.
+-Seaborn: Advanced data visualization with enhanced aesthetics.
+-NumPy: Numerical operations and calculations.
