@@ -1,7 +1,7 @@
 # Sales Data Cleaning, Analysis Using Python and SQL
 This project focuses on cleaning and analyzing a simulated sales dataset to address common real-world challenges in sales management systems. The dataset contains inconsistencies, missing values, duplicates, and invalid entries. By performing data cleaning and exploratory data analysis (EDA), the project aims to uncover sales trends, derive actionable business insights, and ensure data accuracy for informed decision-making..
 
-## Key Features
+## Project Structure
 1. Data Cleaning: Addressing missing values, handling duplicates, and standardizing data.
 2. Exploratory Data Analysis (EDA): Visualizing trends, analyzing sales performance, and identifying key metrics.
 3. Actionable Insights: Providing a foundation for data-driven decisions in sales strategies.
